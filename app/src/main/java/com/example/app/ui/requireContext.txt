@@ -1,0 +1,1 @@
+We have also used requireContext in the adapter of fragments
